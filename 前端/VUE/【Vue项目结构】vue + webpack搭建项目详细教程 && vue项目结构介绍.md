@@ -34,7 +34,7 @@
 
  一个vue-cli的项目结构如下，其中src文件夹是需要掌握的，所以本文也重点讲解其中的文件，至于其他相关文件，了解一下即可。 
 
-![Vue+Webpack项目框架](【Vue项目结构】vue + webpack搭建项目详细教程 && vue项目结构介绍\Vue+Webpack项目框架.png)
+![Vue+Webpack项目框架](https://github.com/Dannymeng/note/tree/master/%E5%89%8D%E7%AB%AF/VUE/%E3%80%90Vue%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E3%80%91vue%20%2B%20webpack%E6%90%AD%E5%BB%BA%E9%A1%B9%E7%9B%AE%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B%20%26%26%20vue%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E4%BB%8B%E7%BB%8D\Vue+Webpack项目框架.png)
 
 
 
